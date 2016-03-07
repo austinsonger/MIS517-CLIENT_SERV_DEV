@@ -1,7 +1,11 @@
 ASSIGNMENT #1
 =============
 
----
+### The Current Page Design and Layout
+
+![](https://i.imgur.com/1l6S47R.png)
+
+
 
 Directions
 ----------
