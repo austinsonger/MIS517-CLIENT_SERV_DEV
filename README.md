@@ -8,15 +8,22 @@ MIS517 - Client Server Development
 
 ----------------------------
 
+PowerPoints
+-----------
 
-### Assignments
+
+Assignments
+-----------
+
 - Assignment 1 - https://github.com/austinvernsonger/MIS517-CLIENT_SERV_DEV/tree/master/Assignment-1
  
-### Labs
+Labs
+----
+
 - Lab 1
 - Lab 2
 
-http://www.codeproject.com/search.aspx?sbo=kw&aidlst=85
+
 
 Useful Links
 --------------
